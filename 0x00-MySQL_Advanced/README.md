@@ -1,5 +1,8 @@
 # 0x00. MySQL Advanced
 
+![MySQL Advanced](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1200px-MySQL_logo.svg.png)
+*Image Source: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1200px-MySQL_logo.svg.png)*
+
 ## Table of Contents
 - [Description](#description)
 - [Learning Objectives](#learning-objectives)
